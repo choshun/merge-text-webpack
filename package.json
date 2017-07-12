@@ -1,6 +1,6 @@
 {
   "name": "merge-file-loader-files-webpack-plugin",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A webpack plugin to merge different files outputted from file-loader",
   "main": "index.js",
   "repository": {
